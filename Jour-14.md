@@ -6,8 +6,8 @@ Hachemi
 
 ### Rattrapage
 
-- [ ] Revoir les notions mal comprises des semaines précédentes
-- [ ] Finir les dailys précédents
+- [x] Revoir les notions mal comprises des semaines précédentes
+- [x] Finir les dailys précédents
 
 ### Git avancé (Pour les plus avancés)
 
